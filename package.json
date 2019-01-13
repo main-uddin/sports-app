@@ -4,6 +4,13 @@
   "private": true,
   "dependencies": {
     "@now/static-build": "^0.4.16",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "html2plaintext": "^2.1.2",
+    "jsdom": "^13.1.0",
+    "luxon": "^1.10.0",
+    "pouchdb": "^7.0.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
