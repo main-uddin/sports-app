@@ -1,0 +1,6 @@
+{
+  "extends": ["react-app", "standard", "standard-react"],
+  "env": {
+    "browser": true
+  }
+}

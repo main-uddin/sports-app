@@ -5,6 +5,7 @@ module.exports = function () {
   return JSDOM.fromURL('https://www.theguardian.com/football/fixtures').then(
     dom => {
       const { window } = dom
+      // console.log('dom', dom)
       const { document } = window
 
       const rawleagues = document.querySelectorAll(
