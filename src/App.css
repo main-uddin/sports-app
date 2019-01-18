@@ -2,3 +2,25 @@ body {
   margin: 0;
   background-color: #efefef;
 }
+.match{
+  text-align: center;
+
+}
+.match>span{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.match>span>img{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.leaguename{
+  text-align: center;
+}
+
+.app-toolbar {
+  display: flex;
+  justify-content: space-between;
+}
