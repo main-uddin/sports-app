@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^3.8.3",
+    "@material-ui/icons": "^3.0.2",
     "@now/static-build": "^0.4.16",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
